@@ -2,7 +2,7 @@
 
 ## My name is Jakub and welcome to mu GitHub profile. Here you can find my projects from studies including my engineering thesis and also personal works. Some of repositories were upload after finishing whole project due to work on external infrastructure.
 
-You can visit all my repositories - if you have question feel free to ask and reach me out. 
+You can visit all my repositories - if you have question feel free to ask and reach me out. 📨
 
 ### About me ⬇️
 
