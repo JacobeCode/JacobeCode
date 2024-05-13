@@ -4,6 +4,11 @@
 
 You can visit all my repositories - if you have question feel free to ask and reach me out. 📨
 
+### Active repositories:
+1. KMeans_PCA_Implementation [first version]
+2. NN_Architectures [prototype]
+3. Face_Detection_PyTorch [starting]
+
 ### About me ⬇️
 
 I'm a BEng of Acoustic Engineering on AGH Krakow specializing in Machine Learning and Natural Language Processing. I'm 23 years old and now I'm searching for oppurtunity for work or internship to explore world of AI. I do what I can to constantlly learn new thing and improve my work. I'm eager to gather new experiences and learn - because everyday there is possibility to discover something new.
