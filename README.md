@@ -6,8 +6,8 @@ You can visit all my repositories - if you have question feel free to ask and re
 
 ### Active repositories:
 1. KMeans_PCA_Implementation [first version]
-2. NN_Architectures [prototype]
-3. Face_Detection_PyTorch [starting]
+2. NN_Architectures [prototype - will be modified after Face Detection project]
+3. Face_Detection_PyTorch [prototype - training first network - CNN (based on ResNet)]
 
 ### About me ⬇️
 
