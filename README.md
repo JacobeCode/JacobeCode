@@ -1,44 +1,36 @@
-### Hello there! Nice to meet you! 👋
+Hello there! Nice to meet you! 👋
 
-## My name is Jakub and welcome to mu GitHub profile. Here you can find my projects from studies including my engineering thesis and also personal works. Some of repositories were upload after finishing whole project due to work on external infrastructure.
+My name is Jakub, and welcome to my GitHub profile. Here you can find my archival projects from my studies, including my engineering thesis, and also newer personal work. Some repositories were uploaded after finishing the whole project due to work on external infrastructure, and some of them need more polishing and serious refactoring (but let’s be honest I prefer focus on new one and there levarage new skills).
 
-You can visit all my repositories - if you have question feel free to ask and reach me out. 📨
+You can visit all my repositories. If you have questions, feel free to ask and reach out to me. 📨
 
-### Active repositories (due to external works and projects - these are suspended):
-1. Face_Detection_PyTorch [prototype - training first network - CNN (based on ResNet)]
-2. NN_Architectures [prototype - will be modified after Face Detection project] 
-3. KMeans_PCA_Implementation [first version]
+About me ⬇️
 
-### About me ⬇️
+I’m a Data Scientist with more than two years of industry experience and a BEng in Acoustic Engineering at AGH Krakow, specializing in Machine Learning and Natural Language Processing. I do what I can to constantly learn new things and improve my work. I’m eager to gather new experiences and learn, because every day there is a possibility to discover something new.
 
-I'm a BEng of Acoustic Engineering on AGH Krakow specializing in Machine Learning and Natural Language Processing. I'm 23 years old and now I'm searching for oppurtunity for work or internship to explore world of AI. I do what I can to constantlly learn new thing and improve my work. I'm eager to gather new experiences and learn - because everyday there is possibility to discover something new.
+In my free time, I train for long-distance endurance runs, sit with a good game, read books, hike, spend time with friends, travel, and a lot more.
 
-In my free time I train to long-distance endurance runs, read books, hiking, spending time with friends, traveling and a lot more.
+Skills? 💻
 
-### Skills? 💻
+If it comes to technologies and programming languages, I mainly use Python, but I’m also familiar with:
 
-If it comes to technologies and programming languages I mainly use **Python**, but I'm also familiar with:
-- **C#**
-- **C++**
-- **SQL**
-- **LabView**
-- **MatLab**
+* SQL
+* C#
+* C++
+* LabView
+* MatLab
 
-I also had expieriences with **C**.
+I also have experience with C.
 
-When it comes to frameworks and tools I'm familliar and ready-to-use with libs like:
-- **Keras**
-- **PyTorch**
-- **Kaldi**
-- **Pandas**
-- **MatPlotLib**
-- **ScikitLearn**
-- **Numpy**
-- **Tensorflow**
-- **GitHub**
-... and many more (but I think these are most important)
+When it comes to frameworks and tools, I’m familiar with and ready to use libraries like:
 
-### Projects (ended recently or current) 📶
-1. Currently experimenting with some project with use of SQL
-2. Learning on ML Algoritm and related topics (revisting)
-3. Experimenting with implementing some ML Algoritm solutions from scratch
+* Keras
+* PyTorch
+* Kaldi
+* Pandas (and Pandera, as well as Spark counterparts - PySpark and PyDantic)
+* Plotly (also MatPlotLib)
+* ScikitLearn
+* Numpy
+* Tensorflow
+* GitHub
+… and many more (but I think these are the most important)
